@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 200vh;
+}
+
+
+h1 {
+    color: #000;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 37px;
+
+}
+
+#staryContainer {
+    width: fit-content;
+    margin-left: 55px
+}
+
+#stary {
+    color: #000;
+    font-size: 40px;
+    margin-top: 12px;
+    width: 500px;
+}
+
+#night {
+    width: 556px;
+    text-align: center;
+}
+
+#lookuo {
+    text-align: center;
+    width: fit-content;
+}
+
+#sky {
+    font-size: 20px;
+    width: 568px;
+}
+
+#yourself {
+    margin-top: 16px;
+    color: #155EEF;
+    width: 536px;
+    line-height: 24px;
+    margin-left: 20px;
+}
+
+#read {
+    margin-top: 32px;
+    color: #CEA201;
+    font-size: 24px;
+    padding: 12px 32px;
+    border: 2px solid #CEA201;
+    background-color: white;
+}
+
+#magic {
+    font-weight: 700;
+    font-size: 40px;
+    size: 48px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+#you {
+    padding-top: 16px;
+    width: 722px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+h3 {
+    width: 722px;
+    text-align: center;
+    color: #00C76E;
+    margin-top: 24px;
+    font-size: 20px
+}
+
+#wrapper {
+    width: 1100px;
+}
+
+#molecule {
+    color: #FF5DA3;
+    width: 722px;
+    list-style-position: inside;
+    margin: 0 auto;
+    margin-bottom: 24px;
+
+
+}
+
+#foto {
+    width: 200px;
+    margin-bottom: 12px 24px;
+    inline-size: inherit;
+}
+
+#they {
+    list-style-type: none;
+}
+
+#see {
+    background-color: #ffdef0;
+    border: 6px solid #C11574;
+    padding: 6px;
+    width: 722px;
+    margin-bottom: 24px;
+}
+
+
+#where {
+    color: #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 24px;
+}
+
+
+#they {
+    font-size: 16px;
+    font-weight: 400;
+    color: #C27512;
+    line-height: 24px;
+    margin: 16px;
+}
+
+#pepela {
+    margin-bottom: 24px;
+    width: fit-content;
+}
+
+#jpj {
+    width: fit-content;
+    margin-bottom: 24px;
+}
+
+#link {
+    text-align: end;
+    margin-right: 105px;
+    margin-top: 35px;
+    color: #00D4BC;
+    width: 720px;
+}
+
+#color {
+    color: #00D4BC;
+}
+
+#bla {
+    margin-right: 12px;
+}
+
+#deed {
+    margin-right: 12px;
+}
+
+#fungi {
+    margin-right: 12px;
+}
